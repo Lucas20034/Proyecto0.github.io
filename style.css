@@ -1,0 +1,60 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bordes{
+    border-radius: 15px;
+    padding: 5px 100px;
+}
+
+.largo{
+    margin: 15px;
+
+    padding: 3px 120px;
+}
+
+.largo2{
+     padding:3px 106px;
+     
+     
+}
+
+.largo4{
+
+    margin: 15px;
+    padding: 3px 108px;
+
+
+}
+
+
+.Mover{
+    margin: 15px;
+}
+
+.button{
+
+    background-color:rgb(250, 250, 250);
+    color: rgb(10, 1, 1);
+    font-family: 'Open Sans', sans-serif;
+    
+    
+
+ }
+
+.colorcito{
+    color:red;
+    margin: 40px;
+}
+
+.advancedbutton{
+    background-color:rgb(32, 66, 178);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.size {
+    font-size: 75px;
+}
+
