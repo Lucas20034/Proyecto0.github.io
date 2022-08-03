@@ -109,5 +109,15 @@ body{
     top: -73px;
   }
 
+  .size7{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(13, 145, 206);
+    position: absolute;
+    top:0;    
+    right: 450px;
+    top: 69px;
+    font-size: 18px;
+}
+
   
 
